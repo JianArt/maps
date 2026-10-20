@@ -232,7 +232,7 @@ def main():
     desc = (f'Minimal street map posters of {cities} cities by Jian Adornado, from Lisbon and Tokyo '
             f'to New York and Buenos Aires. {n} prints, each in one color.')
     (ROOT / 'index.html').write_text(render(
-        HOME_TITLE, desc, SITE, f'{SITE}posters/share-lisbon.jpg', 'Street map poster of Lisbon, Portugal',
+        HOME_TITLE, desc, SITE, f'{SITE}posters/share/lisbon.jpg', 'Street map poster of Lisbon, Portugal',
         f'Street map posters of {cities} cities', schema(data, HOME_TITLE, desc)))
 
     # One page per print: the same scroll, opened at that plate, with its own title and card.
