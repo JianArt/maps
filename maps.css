@@ -401,6 +401,8 @@ a { color: inherit; }
 .foot-line {
   font: 400 clamp(32px, 5vw, 56px)/1.1 var(--serif);
   letter-spacing: -.015em;
+  /* Narrow measures would otherwise leave "signature." alone on a second line. */
+  text-wrap: balance;
 }
 .foot-mail {
   margin-top: 40px;
