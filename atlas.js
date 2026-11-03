@@ -292,13 +292,21 @@
 
     function place(p) {
       var cr = canvas.getBoundingClientRect();
-      var ir = canvas.parentNode.getBoundingClientRect();
+      var parent = canvas.parentNode;
+      var ir = parent.getBoundingClientRect();
       var k = cr.width / canvas.width;
       var x = cr.left - ir.left + p.sx * k;
       var y = cr.top - ir.top + p.sy * k;
       var left = p.sx > cx + R * 0.3;
       label.classList.toggle('is-left', left);
-      label.style.transform = 'translate(' + Math.round(x + (left ? -20 : 20)) + 'px,' + Math.round(y) + 'px) translate(' + (left ? '-100%' : '0') + ',-50%)';
+      var pad = parseFloat(getComputedStyle(parent).paddingLeft) || 20;
+      var w = label.offsetWidth;
+      var anchor = x + (left ? -20 : 20);
+      if (w) {
+        if (left) anchor = Math.min(ir.width - pad, Math.max(pad + w, anchor));
+        else anchor = Math.min(ir.width - pad - w, Math.max(pad, anchor));
+      }
+      label.style.transform = 'translate(' + Math.round(anchor) + 'px,' + Math.round(y) + 'px) translate(' + (left ? '-100%' : '0') + ',-50%)';
     }
 
     function showLabel(p) {
