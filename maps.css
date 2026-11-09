@@ -437,7 +437,8 @@ a { color: inherit; }
   }
   .tile-label { margin-top: 20px; }
   .tile-city { font-size: 16px; line-height: 1.15; }
-  .tile-meta { margin-top: 4px; font-size: 9px; letter-spacing: .12em; }
+  /* .06em keeps "United States · Edition II" on one line, with a little air at the sides. */
+  .tile-meta { margin-top: 4px; font-size: 9px; letter-spacing: .06em; }
   .plate-geo { flex-direction: column; align-items: flex-end; }
 }
 
