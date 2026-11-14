@@ -3,539 +3,1251 @@
   <url>
     <loc>https://maps.jianart.com/</loc>
     <lastmod>2026-11-14</lastmod>
-    <image:image><image:loc>https://maps.jianart.com/posters/1600/abidjan.avif</image:loc></image:image>
-    <image:image><image:loc>https://maps.jianart.com/posters/1600/accra.avif</image:loc></image:image>
-    <image:image><image:loc>https://maps.jianart.com/posters/1600/alexandria.avif</image:loc></image:image>
-    <image:image><image:loc>https://maps.jianart.com/posters/1600/algiers.avif</image:loc></image:image>
-    <image:image><image:loc>https://maps.jianart.com/posters/1600/amsterdam.avif</image:loc></image:image>
-    <image:image><image:loc>https://maps.jianart.com/posters/1600/amsterdam-2.avif</image:loc></image:image>
-    <image:image><image:loc>https://maps.jianart.com/posters/1600/antwerp.avif</image:loc></image:image>
-    <image:image><image:loc>https://maps.jianart.com/posters/1600/asuncion.avif</image:loc></image:image>
-    <image:image><image:loc>https://maps.jianart.com/posters/1600/athens.avif</image:loc></image:image>
-    <image:image><image:loc>https://maps.jianart.com/posters/1600/auckland.avif</image:loc></image:image>
-    <image:image><image:loc>https://maps.jianart.com/posters/1600/bangkok.avif</image:loc></image:image>
-    <image:image><image:loc>https://maps.jianart.com/posters/1600/barcelona.avif</image:loc></image:image>
-    <image:image><image:loc>https://maps.jianart.com/posters/1600/barcelona-2.avif</image:loc></image:image>
-    <image:image><image:loc>https://maps.jianart.com/posters/1600/bergen.avif</image:loc></image:image>
-    <image:image><image:loc>https://maps.jianart.com/posters/1600/berlin.avif</image:loc></image:image>
-    <image:image><image:loc>https://maps.jianart.com/posters/1600/bern.avif</image:loc></image:image>
-    <image:image><image:loc>https://maps.jianart.com/posters/1600/bogota.avif</image:loc></image:image>
-    <image:image><image:loc>https://maps.jianart.com/posters/1600/brasilia.avif</image:loc></image:image>
-    <image:image><image:loc>https://maps.jianart.com/posters/1600/brussels.avif</image:loc></image:image>
-    <image:image><image:loc>https://maps.jianart.com/posters/1600/bucharest.avif</image:loc></image:image>
-    <image:image><image:loc>https://maps.jianart.com/posters/1600/buenos-aires.avif</image:loc></image:image>
-    <image:image><image:loc>https://maps.jianart.com/posters/1600/cairo.avif</image:loc></image:image>
-    <image:image><image:loc>https://maps.jianart.com/posters/1600/cali.avif</image:loc></image:image>
-    <image:image><image:loc>https://maps.jianart.com/posters/1600/canberra.avif</image:loc></image:image>
-    <image:image><image:loc>https://maps.jianart.com/posters/1600/cape-town.avif</image:loc></image:image>
-    <image:image><image:loc>https://maps.jianart.com/posters/1600/chicago.avif</image:loc></image:image>
-    <image:image><image:loc>https://maps.jianart.com/posters/1600/coimbra.avif</image:loc></image:image>
-    <image:image><image:loc>https://maps.jianart.com/posters/1600/dakar.avif</image:loc></image:image>
-    <image:image><image:loc>https://maps.jianart.com/posters/1600/dublin.avif</image:loc></image:image>
-    <image:image><image:loc>https://maps.jianart.com/posters/1600/edinburgh.avif</image:loc></image:image>
-    <image:image><image:loc>https://maps.jianart.com/posters/1600/florence.avif</image:loc></image:image>
-    <image:image><image:loc>https://maps.jianart.com/posters/1600/fukuoka.avif</image:loc></image:image>
-    <image:image><image:loc>https://maps.jianart.com/posters/1600/ghent.avif</image:loc></image:image>
-    <image:image><image:loc>https://maps.jianart.com/posters/1600/helsinki.avif</image:loc></image:image>
-    <image:image><image:loc>https://maps.jianart.com/posters/1600/hong-kong.avif</image:loc></image:image>
-    <image:image><image:loc>https://maps.jianart.com/posters/1600/istanbul.avif</image:loc></image:image>
-    <image:image><image:loc>https://maps.jianart.com/posters/1600/kinshasa.avif</image:loc></image:image>
-    <image:image><image:loc>https://maps.jianart.com/posters/1600/las-vegas.avif</image:loc></image:image>
-    <image:image><image:loc>https://maps.jianart.com/posters/1600/lausanne.avif</image:loc></image:image>
-    <image:image><image:loc>https://maps.jianart.com/posters/1600/lisbon.avif</image:loc></image:image>
-    <image:image><image:loc>https://maps.jianart.com/posters/1600/liverpool.avif</image:loc></image:image>
-    <image:image><image:loc>https://maps.jianart.com/posters/1600/london.avif</image:loc></image:image>
-    <image:image><image:loc>https://maps.jianart.com/posters/1600/lucerne.avif</image:loc></image:image>
-    <image:image><image:loc>https://maps.jianart.com/posters/1600/madrid.avif</image:loc></image:image>
-    <image:image><image:loc>https://maps.jianart.com/posters/1600/marseille.avif</image:loc></image:image>
-    <image:image><image:loc>https://maps.jianart.com/posters/1600/marseille-watercolor.avif</image:loc></image:image>
-    <image:image><image:loc>https://maps.jianart.com/posters/1600/medellin.avif</image:loc></image:image>
-    <image:image><image:loc>https://maps.jianart.com/posters/1600/medellin-2.avif</image:loc></image:image>
-    <image:image><image:loc>https://maps.jianart.com/posters/1600/melbourne.avif</image:loc></image:image>
-    <image:image><image:loc>https://maps.jianart.com/posters/1600/mendoza.avif</image:loc></image:image>
-    <image:image><image:loc>https://maps.jianart.com/posters/1600/merida.avif</image:loc></image:image>
-    <image:image><image:loc>https://maps.jianart.com/posters/1600/mexico-city.avif</image:loc></image:image>
-    <image:image><image:loc>https://maps.jianart.com/posters/1600/miami.avif</image:loc></image:image>
-    <image:image><image:loc>https://maps.jianart.com/posters/1600/montreal.avif</image:loc></image:image>
-    <image:image><image:loc>https://maps.jianart.com/posters/1600/naples.avif</image:loc></image:image>
-    <image:image><image:loc>https://maps.jianart.com/posters/1600/new-york.avif</image:loc></image:image>
-    <image:image><image:loc>https://maps.jianart.com/posters/1600/new-york-2.avif</image:loc></image:image>
-    <image:image><image:loc>https://maps.jianart.com/posters/1600/nice.avif</image:loc></image:image>
-    <image:image><image:loc>https://maps.jianart.com/posters/1600/oslo.avif</image:loc></image:image>
-    <image:image><image:loc>https://maps.jianart.com/posters/1600/ottawa.avif</image:loc></image:image>
-    <image:image><image:loc>https://maps.jianart.com/posters/1600/paris.avif</image:loc></image:image>
-    <image:image><image:loc>https://maps.jianart.com/posters/1600/philadelphia.avif</image:loc></image:image>
-    <image:image><image:loc>https://maps.jianart.com/posters/1600/philadelphia-76ers.avif</image:loc></image:image>
-    <image:image><image:loc>https://maps.jianart.com/posters/1600/praia.avif</image:loc></image:image>
-    <image:image><image:loc>https://maps.jianart.com/posters/1600/quito.avif</image:loc></image:image>
-    <image:image><image:loc>https://maps.jianart.com/posters/1600/rabat.avif</image:loc></image:image>
-    <image:image><image:loc>https://maps.jianart.com/posters/1600/raleigh.avif</image:loc></image:image>
-    <image:image><image:loc>https://maps.jianart.com/posters/1600/reykjavik.avif</image:loc></image:image>
-    <image:image><image:loc>https://maps.jianart.com/posters/1600/rio-de-janeiro.avif</image:loc></image:image>
-    <image:image><image:loc>https://maps.jianart.com/posters/1600/rome.avif</image:loc></image:image>
-    <image:image><image:loc>https://maps.jianart.com/posters/1600/salta.avif</image:loc></image:image>
-    <image:image><image:loc>https://maps.jianart.com/posters/1600/san-francisco.avif</image:loc></image:image>
-    <image:image><image:loc>https://maps.jianart.com/posters/1600/santiago.avif</image:loc></image:image>
-    <image:image><image:loc>https://maps.jianart.com/posters/1600/sao-paulo.avif</image:loc></image:image>
-    <image:image><image:loc>https://maps.jianart.com/posters/1600/sarajevo.avif</image:loc></image:image>
-    <image:image><image:loc>https://maps.jianart.com/posters/1600/seattle.avif</image:loc></image:image>
-    <image:image><image:loc>https://maps.jianart.com/posters/1600/seoul.avif</image:loc></image:image>
-    <image:image><image:loc>https://maps.jianart.com/posters/1600/seville.avif</image:loc></image:image>
-    <image:image><image:loc>https://maps.jianart.com/posters/1600/singapore.avif</image:loc></image:image>
-    <image:image><image:loc>https://maps.jianart.com/posters/1600/stockholm.avif</image:loc></image:image>
-    <image:image><image:loc>https://maps.jianart.com/posters/1600/stockholm-2.avif</image:loc></image:image>
-    <image:image><image:loc>https://maps.jianart.com/posters/1600/sydney.avif</image:loc></image:image>
-    <image:image><image:loc>https://maps.jianart.com/posters/1600/tokyo.avif</image:loc></image:image>
-    <image:image><image:loc>https://maps.jianart.com/posters/1600/toronto.avif</image:loc></image:image>
-    <image:image><image:loc>https://maps.jianart.com/posters/1600/vienna.avif</image:loc></image:image>
-    <image:image><image:loc>https://maps.jianart.com/posters/1600/vienna-watercolor.avif</image:loc></image:image>
-    <image:image><image:loc>https://maps.jianart.com/posters/1600/washington.avif</image:loc></image:image>
-    <image:image><image:loc>https://maps.jianart.com/posters/1600/zagreb.avif</image:loc></image:image>
-    <image:image><image:loc>https://maps.jianart.com/posters/1600/zurich.avif</image:loc></image:image>
+    <image:image>
+      <image:loc>https://maps.jianart.com/posters/share/abidjan.jpg</image:loc>
+      <image:title>Abidjan street map poster</image:title>
+      <image:caption>Minimal street map poster of Abidjan, Côte d’Ivoire, by Jian Adornado</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://maps.jianart.com/posters/share/accra.jpg</image:loc>
+      <image:title>Accra street map poster</image:title>
+      <image:caption>Minimal street map poster of Accra, Ghana, by Jian Adornado</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://maps.jianart.com/posters/share/alexandria.jpg</image:loc>
+      <image:title>Alexandria street map poster</image:title>
+      <image:caption>Minimal street map poster of Alexandria, Egypt, by Jian Adornado</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://maps.jianart.com/posters/share/algiers.jpg</image:loc>
+      <image:title>Algiers street map poster</image:title>
+      <image:caption>Minimal street map poster of Algiers, Algeria, by Jian Adornado</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://maps.jianart.com/posters/share/amsterdam.jpg</image:loc>
+      <image:title>Amsterdam street map poster</image:title>
+      <image:caption>Minimal street map poster of Amsterdam, Netherlands, by Jian Adornado</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://maps.jianart.com/posters/share/amsterdam-2.jpg</image:loc>
+      <image:title>Amsterdam street map poster (Edition II)</image:title>
+      <image:caption>Minimal street map poster of Amsterdam, Netherlands (Edition II), by Jian Adornado</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://maps.jianart.com/posters/share/antwerp.jpg</image:loc>
+      <image:title>Antwerp street map poster</image:title>
+      <image:caption>Minimal street map poster of Antwerp, Belgium, by Jian Adornado</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://maps.jianart.com/posters/share/asuncion.jpg</image:loc>
+      <image:title>Asunción street map poster</image:title>
+      <image:caption>Minimal street map poster of Asunción, Paraguay, by Jian Adornado</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://maps.jianart.com/posters/share/athens.jpg</image:loc>
+      <image:title>Athens street map poster</image:title>
+      <image:caption>Minimal street map poster of Athens, Greece, by Jian Adornado</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://maps.jianart.com/posters/share/auckland.jpg</image:loc>
+      <image:title>Auckland street map poster</image:title>
+      <image:caption>Minimal street map poster of Auckland, New Zealand, by Jian Adornado</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://maps.jianart.com/posters/share/bangkok.jpg</image:loc>
+      <image:title>Bangkok street map poster</image:title>
+      <image:caption>Minimal street map poster of Bangkok, Thailand, by Jian Adornado</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://maps.jianart.com/posters/share/barcelona.jpg</image:loc>
+      <image:title>Barcelona street map poster</image:title>
+      <image:caption>Minimal street map poster of Barcelona, Spain, by Jian Adornado</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://maps.jianart.com/posters/share/barcelona-2.jpg</image:loc>
+      <image:title>Barcelona street map poster (Edition II)</image:title>
+      <image:caption>Minimal street map poster of Barcelona, Spain (Edition II), by Jian Adornado</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://maps.jianart.com/posters/share/bergen.jpg</image:loc>
+      <image:title>Bergen street map poster</image:title>
+      <image:caption>Minimal street map poster of Bergen, Norway, by Jian Adornado</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://maps.jianart.com/posters/share/berlin.jpg</image:loc>
+      <image:title>Berlin street map poster</image:title>
+      <image:caption>Minimal street map poster of Berlin, Germany, by Jian Adornado</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://maps.jianart.com/posters/share/bern.jpg</image:loc>
+      <image:title>Bern street map poster</image:title>
+      <image:caption>Minimal street map poster of Bern, Switzerland, by Jian Adornado</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://maps.jianart.com/posters/share/bogota.jpg</image:loc>
+      <image:title>Bogotá street map poster</image:title>
+      <image:caption>Minimal street map poster of Bogotá, Colombia, by Jian Adornado</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://maps.jianart.com/posters/share/brasilia.jpg</image:loc>
+      <image:title>Brasília street map poster</image:title>
+      <image:caption>Minimal street map poster of Brasília, Brazil, by Jian Adornado</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://maps.jianart.com/posters/share/brussels.jpg</image:loc>
+      <image:title>Brussels street map poster</image:title>
+      <image:caption>Minimal street map poster of Brussels, Belgium, by Jian Adornado</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://maps.jianart.com/posters/share/bucharest.jpg</image:loc>
+      <image:title>Bucharest street map poster</image:title>
+      <image:caption>Minimal street map poster of Bucharest, Romania, by Jian Adornado</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://maps.jianart.com/posters/share/buenos-aires.jpg</image:loc>
+      <image:title>Buenos Aires street map poster</image:title>
+      <image:caption>Minimal street map poster of Buenos Aires, Argentina, by Jian Adornado</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://maps.jianart.com/posters/share/cairo.jpg</image:loc>
+      <image:title>Cairo street map poster</image:title>
+      <image:caption>Minimal street map poster of Cairo, Egypt, by Jian Adornado</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://maps.jianart.com/posters/share/cali.jpg</image:loc>
+      <image:title>Cali street map poster</image:title>
+      <image:caption>Minimal street map poster of Cali, Colombia, by Jian Adornado</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://maps.jianart.com/posters/share/canberra.jpg</image:loc>
+      <image:title>Canberra street map poster</image:title>
+      <image:caption>Minimal street map poster of Canberra, Australia, by Jian Adornado</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://maps.jianart.com/posters/share/cape-town.jpg</image:loc>
+      <image:title>Cape Town street map poster</image:title>
+      <image:caption>Minimal street map poster of Cape Town, South Africa, by Jian Adornado</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://maps.jianart.com/posters/share/chicago.jpg</image:loc>
+      <image:title>Chicago street map poster</image:title>
+      <image:caption>Minimal street map poster of Chicago, United States, by Jian Adornado</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://maps.jianart.com/posters/share/coimbra.jpg</image:loc>
+      <image:title>Coimbra street map poster</image:title>
+      <image:caption>Minimal street map poster of Coimbra, Portugal, by Jian Adornado</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://maps.jianart.com/posters/share/dakar.jpg</image:loc>
+      <image:title>Dakar street map poster</image:title>
+      <image:caption>Minimal street map poster of Dakar, Senegal, by Jian Adornado</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://maps.jianart.com/posters/share/dublin.jpg</image:loc>
+      <image:title>Dublin street map poster</image:title>
+      <image:caption>Minimal street map poster of Dublin, Ireland, by Jian Adornado</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://maps.jianart.com/posters/share/edinburgh.jpg</image:loc>
+      <image:title>Edinburgh street map poster</image:title>
+      <image:caption>Minimal street map poster of Edinburgh, United Kingdom, by Jian Adornado</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://maps.jianart.com/posters/share/florence.jpg</image:loc>
+      <image:title>Florence street map poster</image:title>
+      <image:caption>Minimal street map poster of Florence, Italy, by Jian Adornado</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://maps.jianart.com/posters/share/fukuoka.jpg</image:loc>
+      <image:title>Fukuoka street map poster</image:title>
+      <image:caption>Minimal street map poster of Fukuoka, Japan, by Jian Adornado</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://maps.jianart.com/posters/share/ghent.jpg</image:loc>
+      <image:title>Ghent street map poster</image:title>
+      <image:caption>Minimal street map poster of Ghent, Belgium, by Jian Adornado</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://maps.jianart.com/posters/share/helsinki.jpg</image:loc>
+      <image:title>Helsinki street map poster</image:title>
+      <image:caption>Minimal street map poster of Helsinki, Finland, by Jian Adornado</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://maps.jianart.com/posters/share/hong-kong.jpg</image:loc>
+      <image:title>Hong Kong street map poster</image:title>
+      <image:caption>Minimal street map poster of Hong Kong, China, by Jian Adornado</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://maps.jianart.com/posters/share/istanbul.jpg</image:loc>
+      <image:title>Istanbul street map poster</image:title>
+      <image:caption>Minimal street map poster of Istanbul, Turkey, by Jian Adornado</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://maps.jianart.com/posters/share/kinshasa.jpg</image:loc>
+      <image:title>Kinshasa street map poster</image:title>
+      <image:caption>Minimal street map poster of Kinshasa, DR Congo, by Jian Adornado</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://maps.jianart.com/posters/share/las-vegas.jpg</image:loc>
+      <image:title>Las Vegas street map poster</image:title>
+      <image:caption>Minimal street map poster of Las Vegas, United States, by Jian Adornado</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://maps.jianart.com/posters/share/lausanne.jpg</image:loc>
+      <image:title>Lausanne street map poster</image:title>
+      <image:caption>Minimal street map poster of Lausanne, Switzerland, by Jian Adornado</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://maps.jianart.com/posters/share/lisbon.jpg</image:loc>
+      <image:title>Lisbon street map poster</image:title>
+      <image:caption>Minimal street map poster of Lisbon, Portugal, by Jian Adornado</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://maps.jianart.com/posters/share/liverpool.jpg</image:loc>
+      <image:title>Liverpool street map poster</image:title>
+      <image:caption>Minimal street map poster of Liverpool, United Kingdom, by Jian Adornado</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://maps.jianart.com/posters/share/london.jpg</image:loc>
+      <image:title>London street map poster</image:title>
+      <image:caption>Minimal street map poster of London, United Kingdom, by Jian Adornado</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://maps.jianart.com/posters/share/lucerne.jpg</image:loc>
+      <image:title>Lucerne street map poster</image:title>
+      <image:caption>Minimal street map poster of Lucerne, Switzerland, by Jian Adornado</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://maps.jianart.com/posters/share/madrid.jpg</image:loc>
+      <image:title>Madrid street map poster</image:title>
+      <image:caption>Minimal street map poster of Madrid, Spain, by Jian Adornado</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://maps.jianart.com/posters/share/marseille.jpg</image:loc>
+      <image:title>Marseille street map poster</image:title>
+      <image:caption>Minimal street map poster of Marseille, France, by Jian Adornado</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://maps.jianart.com/posters/share/marseille-watercolor.jpg</image:loc>
+      <image:title>Marseille street map poster (Watercolor)</image:title>
+      <image:caption>Minimal street map poster of Marseille, France (Watercolor), by Jian Adornado</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://maps.jianart.com/posters/share/medellin.jpg</image:loc>
+      <image:title>Medellín street map poster</image:title>
+      <image:caption>Minimal street map poster of Medellín, Colombia, by Jian Adornado</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://maps.jianart.com/posters/share/medellin-2.jpg</image:loc>
+      <image:title>Medellín street map poster (Edition II)</image:title>
+      <image:caption>Minimal street map poster of Medellín, Colombia (Edition II), by Jian Adornado</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://maps.jianart.com/posters/share/melbourne.jpg</image:loc>
+      <image:title>Melbourne street map poster</image:title>
+      <image:caption>Minimal street map poster of Melbourne, Australia, by Jian Adornado</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://maps.jianart.com/posters/share/mendoza.jpg</image:loc>
+      <image:title>Mendoza street map poster</image:title>
+      <image:caption>Minimal street map poster of Mendoza, Argentina, by Jian Adornado</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://maps.jianart.com/posters/share/merida.jpg</image:loc>
+      <image:title>Mérida street map poster</image:title>
+      <image:caption>Minimal street map poster of Mérida, Mexico, by Jian Adornado</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://maps.jianart.com/posters/share/mexico-city.jpg</image:loc>
+      <image:title>Mexico City street map poster</image:title>
+      <image:caption>Minimal street map poster of Mexico City, Mexico, by Jian Adornado</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://maps.jianart.com/posters/share/miami.jpg</image:loc>
+      <image:title>Miami street map poster</image:title>
+      <image:caption>Minimal street map poster of Miami, United States, by Jian Adornado</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://maps.jianart.com/posters/share/montreal.jpg</image:loc>
+      <image:title>Montréal street map poster</image:title>
+      <image:caption>Minimal street map poster of Montréal, Canada, by Jian Adornado</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://maps.jianart.com/posters/share/naples.jpg</image:loc>
+      <image:title>Naples street map poster</image:title>
+      <image:caption>Minimal street map poster of Naples, Italy, by Jian Adornado</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://maps.jianart.com/posters/share/new-york.jpg</image:loc>
+      <image:title>New York street map poster</image:title>
+      <image:caption>Minimal street map poster of New York, United States, by Jian Adornado</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://maps.jianart.com/posters/share/new-york-2.jpg</image:loc>
+      <image:title>New York street map poster (Edition II)</image:title>
+      <image:caption>Minimal street map poster of New York, United States (Edition II), by Jian Adornado</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://maps.jianart.com/posters/share/nice.jpg</image:loc>
+      <image:title>Nice street map poster</image:title>
+      <image:caption>Minimal street map poster of Nice, France, by Jian Adornado</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://maps.jianart.com/posters/share/oslo.jpg</image:loc>
+      <image:title>Oslo street map poster</image:title>
+      <image:caption>Minimal street map poster of Oslo, Norway, by Jian Adornado</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://maps.jianart.com/posters/share/ottawa.jpg</image:loc>
+      <image:title>Ottawa street map poster</image:title>
+      <image:caption>Minimal street map poster of Ottawa, Canada, by Jian Adornado</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://maps.jianart.com/posters/share/paris.jpg</image:loc>
+      <image:title>Paris street map poster</image:title>
+      <image:caption>Minimal street map poster of Paris, France, by Jian Adornado</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://maps.jianart.com/posters/share/philadelphia.jpg</image:loc>
+      <image:title>Philadelphia street map poster</image:title>
+      <image:caption>Minimal street map poster of Philadelphia, United States, by Jian Adornado</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://maps.jianart.com/posters/share/philadelphia-76ers.jpg</image:loc>
+      <image:title>Philadelphia street map poster (76ers)</image:title>
+      <image:caption>Minimal street map poster of Philadelphia, United States (76ers), by Jian Adornado</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://maps.jianart.com/posters/share/praia.jpg</image:loc>
+      <image:title>Praia street map poster</image:title>
+      <image:caption>Minimal street map poster of Praia, Cabo Verde, by Jian Adornado</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://maps.jianart.com/posters/share/quito.jpg</image:loc>
+      <image:title>Quito street map poster</image:title>
+      <image:caption>Minimal street map poster of Quito, Ecuador, by Jian Adornado</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://maps.jianart.com/posters/share/rabat.jpg</image:loc>
+      <image:title>Rabat street map poster</image:title>
+      <image:caption>Minimal street map poster of Rabat, Morocco, by Jian Adornado</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://maps.jianart.com/posters/share/raleigh.jpg</image:loc>
+      <image:title>Raleigh street map poster</image:title>
+      <image:caption>Minimal street map poster of Raleigh, United States, by Jian Adornado</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://maps.jianart.com/posters/share/reykjavik.jpg</image:loc>
+      <image:title>Reykjavík street map poster</image:title>
+      <image:caption>Minimal street map poster of Reykjavík, Iceland, by Jian Adornado</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://maps.jianart.com/posters/share/rio-de-janeiro.jpg</image:loc>
+      <image:title>Rio de Janeiro street map poster</image:title>
+      <image:caption>Minimal street map poster of Rio de Janeiro, Brazil, by Jian Adornado</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://maps.jianart.com/posters/share/rome.jpg</image:loc>
+      <image:title>Rome street map poster</image:title>
+      <image:caption>Minimal street map poster of Rome, Italy, by Jian Adornado</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://maps.jianart.com/posters/share/salta.jpg</image:loc>
+      <image:title>Salta street map poster</image:title>
+      <image:caption>Minimal street map poster of Salta, Argentina, by Jian Adornado</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://maps.jianart.com/posters/share/san-francisco.jpg</image:loc>
+      <image:title>San Francisco street map poster</image:title>
+      <image:caption>Minimal street map poster of San Francisco, United States, by Jian Adornado</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://maps.jianart.com/posters/share/santiago.jpg</image:loc>
+      <image:title>Santiago street map poster</image:title>
+      <image:caption>Minimal street map poster of Santiago, Chile, by Jian Adornado</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://maps.jianart.com/posters/share/sao-paulo.jpg</image:loc>
+      <image:title>São Paulo street map poster</image:title>
+      <image:caption>Minimal street map poster of São Paulo, Brazil, by Jian Adornado</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://maps.jianart.com/posters/share/sarajevo.jpg</image:loc>
+      <image:title>Sarajevo street map poster</image:title>
+      <image:caption>Minimal street map poster of Sarajevo, Bosnia and Herzegovina, by Jian Adornado</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://maps.jianart.com/posters/share/seattle.jpg</image:loc>
+      <image:title>Seattle street map poster</image:title>
+      <image:caption>Minimal street map poster of Seattle, United States, by Jian Adornado</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://maps.jianart.com/posters/share/seoul.jpg</image:loc>
+      <image:title>Seoul street map poster</image:title>
+      <image:caption>Minimal street map poster of Seoul, South Korea, by Jian Adornado</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://maps.jianart.com/posters/share/seville.jpg</image:loc>
+      <image:title>Seville street map poster</image:title>
+      <image:caption>Minimal street map poster of Seville, Spain, by Jian Adornado</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://maps.jianart.com/posters/share/singapore.jpg</image:loc>
+      <image:title>Singapore street map poster</image:title>
+      <image:caption>Minimal street map poster of Singapore, Singapore, by Jian Adornado</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://maps.jianart.com/posters/share/stockholm.jpg</image:loc>
+      <image:title>Stockholm street map poster</image:title>
+      <image:caption>Minimal street map poster of Stockholm, Sweden, by Jian Adornado</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://maps.jianart.com/posters/share/stockholm-2.jpg</image:loc>
+      <image:title>Stockholm street map poster (Edition II)</image:title>
+      <image:caption>Minimal street map poster of Stockholm, Sweden (Edition II), by Jian Adornado</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://maps.jianart.com/posters/share/sydney.jpg</image:loc>
+      <image:title>Sydney street map poster</image:title>
+      <image:caption>Minimal street map poster of Sydney, Australia, by Jian Adornado</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://maps.jianart.com/posters/share/tokyo.jpg</image:loc>
+      <image:title>Tokyo street map poster</image:title>
+      <image:caption>Minimal street map poster of Tokyo, Japan, by Jian Adornado</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://maps.jianart.com/posters/share/toronto.jpg</image:loc>
+      <image:title>Toronto street map poster</image:title>
+      <image:caption>Minimal street map poster of Toronto, Canada, by Jian Adornado</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://maps.jianart.com/posters/share/vienna.jpg</image:loc>
+      <image:title>Vienna street map poster</image:title>
+      <image:caption>Minimal street map poster of Vienna, Austria, by Jian Adornado</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://maps.jianart.com/posters/share/vienna-watercolor.jpg</image:loc>
+      <image:title>Vienna street map poster (Watercolor)</image:title>
+      <image:caption>Minimal street map poster of Vienna, Austria (Watercolor), by Jian Adornado</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://maps.jianart.com/posters/share/washington.jpg</image:loc>
+      <image:title>Washington street map poster</image:title>
+      <image:caption>Minimal street map poster of Washington, United States, by Jian Adornado</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://maps.jianart.com/posters/share/zagreb.jpg</image:loc>
+      <image:title>Zagreb street map poster</image:title>
+      <image:caption>Minimal street map poster of Zagreb, Croatia, by Jian Adornado</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://maps.jianart.com/posters/share/zurich.jpg</image:loc>
+      <image:title>Zürich street map poster</image:title>
+      <image:caption>Minimal street map poster of Zürich, Switzerland, by Jian Adornado</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://maps.jianart.com/abidjan/</loc>
     <lastmod>2026-11-14</lastmod>
-    <image:image><image:loc>https://maps.jianart.com/posters/1600/abidjan.avif</image:loc></image:image>
+    <image:image>
+      <image:loc>https://maps.jianart.com/posters/share/abidjan.jpg</image:loc>
+      <image:title>Abidjan street map poster</image:title>
+      <image:caption>Minimal street map poster of Abidjan, Côte d’Ivoire, by Jian Adornado</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://maps.jianart.com/accra/</loc>
     <lastmod>2026-11-14</lastmod>
-    <image:image><image:loc>https://maps.jianart.com/posters/1600/accra.avif</image:loc></image:image>
+    <image:image>
+      <image:loc>https://maps.jianart.com/posters/share/accra.jpg</image:loc>
+      <image:title>Accra street map poster</image:title>
+      <image:caption>Minimal street map poster of Accra, Ghana, by Jian Adornado</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://maps.jianart.com/alexandria/</loc>
     <lastmod>2026-11-14</lastmod>
-    <image:image><image:loc>https://maps.jianart.com/posters/1600/alexandria.avif</image:loc></image:image>
+    <image:image>
+      <image:loc>https://maps.jianart.com/posters/share/alexandria.jpg</image:loc>
+      <image:title>Alexandria street map poster</image:title>
+      <image:caption>Minimal street map poster of Alexandria, Egypt, by Jian Adornado</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://maps.jianart.com/algiers/</loc>
     <lastmod>2026-11-14</lastmod>
-    <image:image><image:loc>https://maps.jianart.com/posters/1600/algiers.avif</image:loc></image:image>
+    <image:image>
+      <image:loc>https://maps.jianart.com/posters/share/algiers.jpg</image:loc>
+      <image:title>Algiers street map poster</image:title>
+      <image:caption>Minimal street map poster of Algiers, Algeria, by Jian Adornado</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://maps.jianart.com/amsterdam/</loc>
     <lastmod>2026-11-14</lastmod>
-    <image:image><image:loc>https://maps.jianart.com/posters/1600/amsterdam.avif</image:loc></image:image>
+    <image:image>
+      <image:loc>https://maps.jianart.com/posters/share/amsterdam.jpg</image:loc>
+      <image:title>Amsterdam street map poster</image:title>
+      <image:caption>Minimal street map poster of Amsterdam, Netherlands, by Jian Adornado</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://maps.jianart.com/amsterdam-2/</loc>
     <lastmod>2026-11-14</lastmod>
-    <image:image><image:loc>https://maps.jianart.com/posters/1600/amsterdam-2.avif</image:loc></image:image>
+    <image:image>
+      <image:loc>https://maps.jianart.com/posters/share/amsterdam-2.jpg</image:loc>
+      <image:title>Amsterdam street map poster (Edition II)</image:title>
+      <image:caption>Minimal street map poster of Amsterdam, Netherlands (Edition II), by Jian Adornado</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://maps.jianart.com/antwerp/</loc>
     <lastmod>2026-11-14</lastmod>
-    <image:image><image:loc>https://maps.jianart.com/posters/1600/antwerp.avif</image:loc></image:image>
+    <image:image>
+      <image:loc>https://maps.jianart.com/posters/share/antwerp.jpg</image:loc>
+      <image:title>Antwerp street map poster</image:title>
+      <image:caption>Minimal street map poster of Antwerp, Belgium, by Jian Adornado</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://maps.jianart.com/asuncion/</loc>
     <lastmod>2026-11-14</lastmod>
-    <image:image><image:loc>https://maps.jianart.com/posters/1600/asuncion.avif</image:loc></image:image>
+    <image:image>
+      <image:loc>https://maps.jianart.com/posters/share/asuncion.jpg</image:loc>
+      <image:title>Asunción street map poster</image:title>
+      <image:caption>Minimal street map poster of Asunción, Paraguay, by Jian Adornado</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://maps.jianart.com/athens/</loc>
     <lastmod>2026-11-14</lastmod>
-    <image:image><image:loc>https://maps.jianart.com/posters/1600/athens.avif</image:loc></image:image>
+    <image:image>
+      <image:loc>https://maps.jianart.com/posters/share/athens.jpg</image:loc>
+      <image:title>Athens street map poster</image:title>
+      <image:caption>Minimal street map poster of Athens, Greece, by Jian Adornado</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://maps.jianart.com/auckland/</loc>
     <lastmod>2026-11-14</lastmod>
-    <image:image><image:loc>https://maps.jianart.com/posters/1600/auckland.avif</image:loc></image:image>
+    <image:image>
+      <image:loc>https://maps.jianart.com/posters/share/auckland.jpg</image:loc>
+      <image:title>Auckland street map poster</image:title>
+      <image:caption>Minimal street map poster of Auckland, New Zealand, by Jian Adornado</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://maps.jianart.com/bangkok/</loc>
     <lastmod>2026-11-14</lastmod>
-    <image:image><image:loc>https://maps.jianart.com/posters/1600/bangkok.avif</image:loc></image:image>
+    <image:image>
+      <image:loc>https://maps.jianart.com/posters/share/bangkok.jpg</image:loc>
+      <image:title>Bangkok street map poster</image:title>
+      <image:caption>Minimal street map poster of Bangkok, Thailand, by Jian Adornado</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://maps.jianart.com/barcelona/</loc>
     <lastmod>2026-11-14</lastmod>
-    <image:image><image:loc>https://maps.jianart.com/posters/1600/barcelona.avif</image:loc></image:image>
+    <image:image>
+      <image:loc>https://maps.jianart.com/posters/share/barcelona.jpg</image:loc>
+      <image:title>Barcelona street map poster</image:title>
+      <image:caption>Minimal street map poster of Barcelona, Spain, by Jian Adornado</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://maps.jianart.com/barcelona-2/</loc>
     <lastmod>2026-11-14</lastmod>
-    <image:image><image:loc>https://maps.jianart.com/posters/1600/barcelona-2.avif</image:loc></image:image>
+    <image:image>
+      <image:loc>https://maps.jianart.com/posters/share/barcelona-2.jpg</image:loc>
+      <image:title>Barcelona street map poster (Edition II)</image:title>
+      <image:caption>Minimal street map poster of Barcelona, Spain (Edition II), by Jian Adornado</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://maps.jianart.com/bergen/</loc>
     <lastmod>2026-11-14</lastmod>
-    <image:image><image:loc>https://maps.jianart.com/posters/1600/bergen.avif</image:loc></image:image>
+    <image:image>
+      <image:loc>https://maps.jianart.com/posters/share/bergen.jpg</image:loc>
+      <image:title>Bergen street map poster</image:title>
+      <image:caption>Minimal street map poster of Bergen, Norway, by Jian Adornado</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://maps.jianart.com/berlin/</loc>
     <lastmod>2026-11-14</lastmod>
-    <image:image><image:loc>https://maps.jianart.com/posters/1600/berlin.avif</image:loc></image:image>
+    <image:image>
+      <image:loc>https://maps.jianart.com/posters/share/berlin.jpg</image:loc>
+      <image:title>Berlin street map poster</image:title>
+      <image:caption>Minimal street map poster of Berlin, Germany, by Jian Adornado</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://maps.jianart.com/bern/</loc>
     <lastmod>2026-11-14</lastmod>
-    <image:image><image:loc>https://maps.jianart.com/posters/1600/bern.avif</image:loc></image:image>
+    <image:image>
+      <image:loc>https://maps.jianart.com/posters/share/bern.jpg</image:loc>
+      <image:title>Bern street map poster</image:title>
+      <image:caption>Minimal street map poster of Bern, Switzerland, by Jian Adornado</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://maps.jianart.com/bogota/</loc>
     <lastmod>2026-11-14</lastmod>
-    <image:image><image:loc>https://maps.jianart.com/posters/1600/bogota.avif</image:loc></image:image>
+    <image:image>
+      <image:loc>https://maps.jianart.com/posters/share/bogota.jpg</image:loc>
+      <image:title>Bogotá street map poster</image:title>
+      <image:caption>Minimal street map poster of Bogotá, Colombia, by Jian Adornado</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://maps.jianart.com/brasilia/</loc>
     <lastmod>2026-11-14</lastmod>
-    <image:image><image:loc>https://maps.jianart.com/posters/1600/brasilia.avif</image:loc></image:image>
+    <image:image>
+      <image:loc>https://maps.jianart.com/posters/share/brasilia.jpg</image:loc>
+      <image:title>Brasília street map poster</image:title>
+      <image:caption>Minimal street map poster of Brasília, Brazil, by Jian Adornado</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://maps.jianart.com/brussels/</loc>
     <lastmod>2026-11-14</lastmod>
-    <image:image><image:loc>https://maps.jianart.com/posters/1600/brussels.avif</image:loc></image:image>
+    <image:image>
+      <image:loc>https://maps.jianart.com/posters/share/brussels.jpg</image:loc>
+      <image:title>Brussels street map poster</image:title>
+      <image:caption>Minimal street map poster of Brussels, Belgium, by Jian Adornado</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://maps.jianart.com/bucharest/</loc>
     <lastmod>2026-11-14</lastmod>
-    <image:image><image:loc>https://maps.jianart.com/posters/1600/bucharest.avif</image:loc></image:image>
+    <image:image>
+      <image:loc>https://maps.jianart.com/posters/share/bucharest.jpg</image:loc>
+      <image:title>Bucharest street map poster</image:title>
+      <image:caption>Minimal street map poster of Bucharest, Romania, by Jian Adornado</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://maps.jianart.com/buenos-aires/</loc>
     <lastmod>2026-11-14</lastmod>
-    <image:image><image:loc>https://maps.jianart.com/posters/1600/buenos-aires.avif</image:loc></image:image>
+    <image:image>
+      <image:loc>https://maps.jianart.com/posters/share/buenos-aires.jpg</image:loc>
+      <image:title>Buenos Aires street map poster</image:title>
+      <image:caption>Minimal street map poster of Buenos Aires, Argentina, by Jian Adornado</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://maps.jianart.com/cairo/</loc>
     <lastmod>2026-11-14</lastmod>
-    <image:image><image:loc>https://maps.jianart.com/posters/1600/cairo.avif</image:loc></image:image>
+    <image:image>
+      <image:loc>https://maps.jianart.com/posters/share/cairo.jpg</image:loc>
+      <image:title>Cairo street map poster</image:title>
+      <image:caption>Minimal street map poster of Cairo, Egypt, by Jian Adornado</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://maps.jianart.com/cali/</loc>
     <lastmod>2026-11-14</lastmod>
-    <image:image><image:loc>https://maps.jianart.com/posters/1600/cali.avif</image:loc></image:image>
+    <image:image>
+      <image:loc>https://maps.jianart.com/posters/share/cali.jpg</image:loc>
+      <image:title>Cali street map poster</image:title>
+      <image:caption>Minimal street map poster of Cali, Colombia, by Jian Adornado</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://maps.jianart.com/canberra/</loc>
     <lastmod>2026-11-14</lastmod>
-    <image:image><image:loc>https://maps.jianart.com/posters/1600/canberra.avif</image:loc></image:image>
+    <image:image>
+      <image:loc>https://maps.jianart.com/posters/share/canberra.jpg</image:loc>
+      <image:title>Canberra street map poster</image:title>
+      <image:caption>Minimal street map poster of Canberra, Australia, by Jian Adornado</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://maps.jianart.com/cape-town/</loc>
     <lastmod>2026-11-14</lastmod>
-    <image:image><image:loc>https://maps.jianart.com/posters/1600/cape-town.avif</image:loc></image:image>
+    <image:image>
+      <image:loc>https://maps.jianart.com/posters/share/cape-town.jpg</image:loc>
+      <image:title>Cape Town street map poster</image:title>
+      <image:caption>Minimal street map poster of Cape Town, South Africa, by Jian Adornado</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://maps.jianart.com/chicago/</loc>
     <lastmod>2026-11-14</lastmod>
-    <image:image><image:loc>https://maps.jianart.com/posters/1600/chicago.avif</image:loc></image:image>
+    <image:image>
+      <image:loc>https://maps.jianart.com/posters/share/chicago.jpg</image:loc>
+      <image:title>Chicago street map poster</image:title>
+      <image:caption>Minimal street map poster of Chicago, United States, by Jian Adornado</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://maps.jianart.com/coimbra/</loc>
     <lastmod>2026-11-14</lastmod>
-    <image:image><image:loc>https://maps.jianart.com/posters/1600/coimbra.avif</image:loc></image:image>
+    <image:image>
+      <image:loc>https://maps.jianart.com/posters/share/coimbra.jpg</image:loc>
+      <image:title>Coimbra street map poster</image:title>
+      <image:caption>Minimal street map poster of Coimbra, Portugal, by Jian Adornado</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://maps.jianart.com/dakar/</loc>
     <lastmod>2026-11-14</lastmod>
-    <image:image><image:loc>https://maps.jianart.com/posters/1600/dakar.avif</image:loc></image:image>
+    <image:image>
+      <image:loc>https://maps.jianart.com/posters/share/dakar.jpg</image:loc>
+      <image:title>Dakar street map poster</image:title>
+      <image:caption>Minimal street map poster of Dakar, Senegal, by Jian Adornado</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://maps.jianart.com/dublin/</loc>
     <lastmod>2026-11-14</lastmod>
-    <image:image><image:loc>https://maps.jianart.com/posters/1600/dublin.avif</image:loc></image:image>
+    <image:image>
+      <image:loc>https://maps.jianart.com/posters/share/dublin.jpg</image:loc>
+      <image:title>Dublin street map poster</image:title>
+      <image:caption>Minimal street map poster of Dublin, Ireland, by Jian Adornado</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://maps.jianart.com/edinburgh/</loc>
     <lastmod>2026-11-14</lastmod>
-    <image:image><image:loc>https://maps.jianart.com/posters/1600/edinburgh.avif</image:loc></image:image>
+    <image:image>
+      <image:loc>https://maps.jianart.com/posters/share/edinburgh.jpg</image:loc>
+      <image:title>Edinburgh street map poster</image:title>
+      <image:caption>Minimal street map poster of Edinburgh, United Kingdom, by Jian Adornado</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://maps.jianart.com/florence/</loc>
     <lastmod>2026-11-14</lastmod>
-    <image:image><image:loc>https://maps.jianart.com/posters/1600/florence.avif</image:loc></image:image>
+    <image:image>
+      <image:loc>https://maps.jianart.com/posters/share/florence.jpg</image:loc>
+      <image:title>Florence street map poster</image:title>
+      <image:caption>Minimal street map poster of Florence, Italy, by Jian Adornado</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://maps.jianart.com/fukuoka/</loc>
     <lastmod>2026-11-14</lastmod>
-    <image:image><image:loc>https://maps.jianart.com/posters/1600/fukuoka.avif</image:loc></image:image>
+    <image:image>
+      <image:loc>https://maps.jianart.com/posters/share/fukuoka.jpg</image:loc>
+      <image:title>Fukuoka street map poster</image:title>
+      <image:caption>Minimal street map poster of Fukuoka, Japan, by Jian Adornado</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://maps.jianart.com/ghent/</loc>
     <lastmod>2026-11-14</lastmod>
-    <image:image><image:loc>https://maps.jianart.com/posters/1600/ghent.avif</image:loc></image:image>
+    <image:image>
+      <image:loc>https://maps.jianart.com/posters/share/ghent.jpg</image:loc>
+      <image:title>Ghent street map poster</image:title>
+      <image:caption>Minimal street map poster of Ghent, Belgium, by Jian Adornado</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://maps.jianart.com/helsinki/</loc>
     <lastmod>2026-11-14</lastmod>
-    <image:image><image:loc>https://maps.jianart.com/posters/1600/helsinki.avif</image:loc></image:image>
+    <image:image>
+      <image:loc>https://maps.jianart.com/posters/share/helsinki.jpg</image:loc>
+      <image:title>Helsinki street map poster</image:title>
+      <image:caption>Minimal street map poster of Helsinki, Finland, by Jian Adornado</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://maps.jianart.com/hong-kong/</loc>
     <lastmod>2026-11-14</lastmod>
-    <image:image><image:loc>https://maps.jianart.com/posters/1600/hong-kong.avif</image:loc></image:image>
+    <image:image>
+      <image:loc>https://maps.jianart.com/posters/share/hong-kong.jpg</image:loc>
+      <image:title>Hong Kong street map poster</image:title>
+      <image:caption>Minimal street map poster of Hong Kong, China, by Jian Adornado</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://maps.jianart.com/istanbul/</loc>
     <lastmod>2026-11-14</lastmod>
-    <image:image><image:loc>https://maps.jianart.com/posters/1600/istanbul.avif</image:loc></image:image>
+    <image:image>
+      <image:loc>https://maps.jianart.com/posters/share/istanbul.jpg</image:loc>
+      <image:title>Istanbul street map poster</image:title>
+      <image:caption>Minimal street map poster of Istanbul, Turkey, by Jian Adornado</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://maps.jianart.com/kinshasa/</loc>
     <lastmod>2026-11-14</lastmod>
-    <image:image><image:loc>https://maps.jianart.com/posters/1600/kinshasa.avif</image:loc></image:image>
+    <image:image>
+      <image:loc>https://maps.jianart.com/posters/share/kinshasa.jpg</image:loc>
+      <image:title>Kinshasa street map poster</image:title>
+      <image:caption>Minimal street map poster of Kinshasa, DR Congo, by Jian Adornado</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://maps.jianart.com/las-vegas/</loc>
     <lastmod>2026-11-14</lastmod>
-    <image:image><image:loc>https://maps.jianart.com/posters/1600/las-vegas.avif</image:loc></image:image>
+    <image:image>
+      <image:loc>https://maps.jianart.com/posters/share/las-vegas.jpg</image:loc>
+      <image:title>Las Vegas street map poster</image:title>
+      <image:caption>Minimal street map poster of Las Vegas, United States, by Jian Adornado</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://maps.jianart.com/lausanne/</loc>
     <lastmod>2026-11-14</lastmod>
-    <image:image><image:loc>https://maps.jianart.com/posters/1600/lausanne.avif</image:loc></image:image>
+    <image:image>
+      <image:loc>https://maps.jianart.com/posters/share/lausanne.jpg</image:loc>
+      <image:title>Lausanne street map poster</image:title>
+      <image:caption>Minimal street map poster of Lausanne, Switzerland, by Jian Adornado</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://maps.jianart.com/lisbon/</loc>
     <lastmod>2026-11-14</lastmod>
-    <image:image><image:loc>https://maps.jianart.com/posters/1600/lisbon.avif</image:loc></image:image>
+    <image:image>
+      <image:loc>https://maps.jianart.com/posters/share/lisbon.jpg</image:loc>
+      <image:title>Lisbon street map poster</image:title>
+      <image:caption>Minimal street map poster of Lisbon, Portugal, by Jian Adornado</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://maps.jianart.com/liverpool/</loc>
     <lastmod>2026-11-14</lastmod>
-    <image:image><image:loc>https://maps.jianart.com/posters/1600/liverpool.avif</image:loc></image:image>
+    <image:image>
+      <image:loc>https://maps.jianart.com/posters/share/liverpool.jpg</image:loc>
+      <image:title>Liverpool street map poster</image:title>
+      <image:caption>Minimal street map poster of Liverpool, United Kingdom, by Jian Adornado</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://maps.jianart.com/london/</loc>
     <lastmod>2026-11-14</lastmod>
-    <image:image><image:loc>https://maps.jianart.com/posters/1600/london.avif</image:loc></image:image>
+    <image:image>
+      <image:loc>https://maps.jianart.com/posters/share/london.jpg</image:loc>
+      <image:title>London street map poster</image:title>
+      <image:caption>Minimal street map poster of London, United Kingdom, by Jian Adornado</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://maps.jianart.com/lucerne/</loc>
     <lastmod>2026-11-14</lastmod>
-    <image:image><image:loc>https://maps.jianart.com/posters/1600/lucerne.avif</image:loc></image:image>
+    <image:image>
+      <image:loc>https://maps.jianart.com/posters/share/lucerne.jpg</image:loc>
+      <image:title>Lucerne street map poster</image:title>
+      <image:caption>Minimal street map poster of Lucerne, Switzerland, by Jian Adornado</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://maps.jianart.com/madrid/</loc>
     <lastmod>2026-11-14</lastmod>
-    <image:image><image:loc>https://maps.jianart.com/posters/1600/madrid.avif</image:loc></image:image>
+    <image:image>
+      <image:loc>https://maps.jianart.com/posters/share/madrid.jpg</image:loc>
+      <image:title>Madrid street map poster</image:title>
+      <image:caption>Minimal street map poster of Madrid, Spain, by Jian Adornado</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://maps.jianart.com/marseille/</loc>
     <lastmod>2026-11-14</lastmod>
-    <image:image><image:loc>https://maps.jianart.com/posters/1600/marseille.avif</image:loc></image:image>
+    <image:image>
+      <image:loc>https://maps.jianart.com/posters/share/marseille.jpg</image:loc>
+      <image:title>Marseille street map poster</image:title>
+      <image:caption>Minimal street map poster of Marseille, France, by Jian Adornado</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://maps.jianart.com/marseille-watercolor/</loc>
     <lastmod>2026-11-14</lastmod>
-    <image:image><image:loc>https://maps.jianart.com/posters/1600/marseille-watercolor.avif</image:loc></image:image>
+    <image:image>
+      <image:loc>https://maps.jianart.com/posters/share/marseille-watercolor.jpg</image:loc>
+      <image:title>Marseille street map poster (Watercolor)</image:title>
+      <image:caption>Minimal street map poster of Marseille, France (Watercolor), by Jian Adornado</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://maps.jianart.com/medellin/</loc>
     <lastmod>2026-11-14</lastmod>
-    <image:image><image:loc>https://maps.jianart.com/posters/1600/medellin.avif</image:loc></image:image>
+    <image:image>
+      <image:loc>https://maps.jianart.com/posters/share/medellin.jpg</image:loc>
+      <image:title>Medellín street map poster</image:title>
+      <image:caption>Minimal street map poster of Medellín, Colombia, by Jian Adornado</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://maps.jianart.com/medellin-2/</loc>
     <lastmod>2026-11-14</lastmod>
-    <image:image><image:loc>https://maps.jianart.com/posters/1600/medellin-2.avif</image:loc></image:image>
+    <image:image>
+      <image:loc>https://maps.jianart.com/posters/share/medellin-2.jpg</image:loc>
+      <image:title>Medellín street map poster (Edition II)</image:title>
+      <image:caption>Minimal street map poster of Medellín, Colombia (Edition II), by Jian Adornado</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://maps.jianart.com/melbourne/</loc>
     <lastmod>2026-11-14</lastmod>
-    <image:image><image:loc>https://maps.jianart.com/posters/1600/melbourne.avif</image:loc></image:image>
+    <image:image>
+      <image:loc>https://maps.jianart.com/posters/share/melbourne.jpg</image:loc>
+      <image:title>Melbourne street map poster</image:title>
+      <image:caption>Minimal street map poster of Melbourne, Australia, by Jian Adornado</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://maps.jianart.com/mendoza/</loc>
     <lastmod>2026-11-14</lastmod>
-    <image:image><image:loc>https://maps.jianart.com/posters/1600/mendoza.avif</image:loc></image:image>
+    <image:image>
+      <image:loc>https://maps.jianart.com/posters/share/mendoza.jpg</image:loc>
+      <image:title>Mendoza street map poster</image:title>
+      <image:caption>Minimal street map poster of Mendoza, Argentina, by Jian Adornado</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://maps.jianart.com/merida/</loc>
     <lastmod>2026-11-14</lastmod>
-    <image:image><image:loc>https://maps.jianart.com/posters/1600/merida.avif</image:loc></image:image>
+    <image:image>
+      <image:loc>https://maps.jianart.com/posters/share/merida.jpg</image:loc>
+      <image:title>Mérida street map poster</image:title>
+      <image:caption>Minimal street map poster of Mérida, Mexico, by Jian Adornado</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://maps.jianart.com/mexico-city/</loc>
     <lastmod>2026-11-14</lastmod>
-    <image:image><image:loc>https://maps.jianart.com/posters/1600/mexico-city.avif</image:loc></image:image>
+    <image:image>
+      <image:loc>https://maps.jianart.com/posters/share/mexico-city.jpg</image:loc>
+      <image:title>Mexico City street map poster</image:title>
+      <image:caption>Minimal street map poster of Mexico City, Mexico, by Jian Adornado</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://maps.jianart.com/miami/</loc>
     <lastmod>2026-11-14</lastmod>
-    <image:image><image:loc>https://maps.jianart.com/posters/1600/miami.avif</image:loc></image:image>
+    <image:image>
+      <image:loc>https://maps.jianart.com/posters/share/miami.jpg</image:loc>
+      <image:title>Miami street map poster</image:title>
+      <image:caption>Minimal street map poster of Miami, United States, by Jian Adornado</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://maps.jianart.com/montreal/</loc>
     <lastmod>2026-11-14</lastmod>
-    <image:image><image:loc>https://maps.jianart.com/posters/1600/montreal.avif</image:loc></image:image>
+    <image:image>
+      <image:loc>https://maps.jianart.com/posters/share/montreal.jpg</image:loc>
+      <image:title>Montréal street map poster</image:title>
+      <image:caption>Minimal street map poster of Montréal, Canada, by Jian Adornado</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://maps.jianart.com/naples/</loc>
     <lastmod>2026-11-14</lastmod>
-    <image:image><image:loc>https://maps.jianart.com/posters/1600/naples.avif</image:loc></image:image>
+    <image:image>
+      <image:loc>https://maps.jianart.com/posters/share/naples.jpg</image:loc>
+      <image:title>Naples street map poster</image:title>
+      <image:caption>Minimal street map poster of Naples, Italy, by Jian Adornado</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://maps.jianart.com/new-york/</loc>
     <lastmod>2026-11-14</lastmod>
-    <image:image><image:loc>https://maps.jianart.com/posters/1600/new-york.avif</image:loc></image:image>
+    <image:image>
+      <image:loc>https://maps.jianart.com/posters/share/new-york.jpg</image:loc>
+      <image:title>New York street map poster</image:title>
+      <image:caption>Minimal street map poster of New York, United States, by Jian Adornado</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://maps.jianart.com/new-york-2/</loc>
     <lastmod>2026-11-14</lastmod>
-    <image:image><image:loc>https://maps.jianart.com/posters/1600/new-york-2.avif</image:loc></image:image>
+    <image:image>
+      <image:loc>https://maps.jianart.com/posters/share/new-york-2.jpg</image:loc>
+      <image:title>New York street map poster (Edition II)</image:title>
+      <image:caption>Minimal street map poster of New York, United States (Edition II), by Jian Adornado</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://maps.jianart.com/nice/</loc>
     <lastmod>2026-11-14</lastmod>
-    <image:image><image:loc>https://maps.jianart.com/posters/1600/nice.avif</image:loc></image:image>
+    <image:image>
+      <image:loc>https://maps.jianart.com/posters/share/nice.jpg</image:loc>
+      <image:title>Nice street map poster</image:title>
+      <image:caption>Minimal street map poster of Nice, France, by Jian Adornado</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://maps.jianart.com/oslo/</loc>
     <lastmod>2026-11-14</lastmod>
-    <image:image><image:loc>https://maps.jianart.com/posters/1600/oslo.avif</image:loc></image:image>
+    <image:image>
+      <image:loc>https://maps.jianart.com/posters/share/oslo.jpg</image:loc>
+      <image:title>Oslo street map poster</image:title>
+      <image:caption>Minimal street map poster of Oslo, Norway, by Jian Adornado</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://maps.jianart.com/ottawa/</loc>
     <lastmod>2026-11-14</lastmod>
-    <image:image><image:loc>https://maps.jianart.com/posters/1600/ottawa.avif</image:loc></image:image>
+    <image:image>
+      <image:loc>https://maps.jianart.com/posters/share/ottawa.jpg</image:loc>
+      <image:title>Ottawa street map poster</image:title>
+      <image:caption>Minimal street map poster of Ottawa, Canada, by Jian Adornado</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://maps.jianart.com/paris/</loc>
     <lastmod>2026-11-14</lastmod>
-    <image:image><image:loc>https://maps.jianart.com/posters/1600/paris.avif</image:loc></image:image>
+    <image:image>
+      <image:loc>https://maps.jianart.com/posters/share/paris.jpg</image:loc>
+      <image:title>Paris street map poster</image:title>
+      <image:caption>Minimal street map poster of Paris, France, by Jian Adornado</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://maps.jianart.com/philadelphia/</loc>
     <lastmod>2026-11-14</lastmod>
-    <image:image><image:loc>https://maps.jianart.com/posters/1600/philadelphia.avif</image:loc></image:image>
+    <image:image>
+      <image:loc>https://maps.jianart.com/posters/share/philadelphia.jpg</image:loc>
+      <image:title>Philadelphia street map poster</image:title>
+      <image:caption>Minimal street map poster of Philadelphia, United States, by Jian Adornado</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://maps.jianart.com/philadelphia-76ers/</loc>
     <lastmod>2026-11-14</lastmod>
-    <image:image><image:loc>https://maps.jianart.com/posters/1600/philadelphia-76ers.avif</image:loc></image:image>
+    <image:image>
+      <image:loc>https://maps.jianart.com/posters/share/philadelphia-76ers.jpg</image:loc>
+      <image:title>Philadelphia street map poster (76ers)</image:title>
+      <image:caption>Minimal street map poster of Philadelphia, United States (76ers), by Jian Adornado</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://maps.jianart.com/praia/</loc>
     <lastmod>2026-11-14</lastmod>
-    <image:image><image:loc>https://maps.jianart.com/posters/1600/praia.avif</image:loc></image:image>
+    <image:image>
+      <image:loc>https://maps.jianart.com/posters/share/praia.jpg</image:loc>
+      <image:title>Praia street map poster</image:title>
+      <image:caption>Minimal street map poster of Praia, Cabo Verde, by Jian Adornado</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://maps.jianart.com/quito/</loc>
     <lastmod>2026-11-14</lastmod>
-    <image:image><image:loc>https://maps.jianart.com/posters/1600/quito.avif</image:loc></image:image>
+    <image:image>
+      <image:loc>https://maps.jianart.com/posters/share/quito.jpg</image:loc>
+      <image:title>Quito street map poster</image:title>
+      <image:caption>Minimal street map poster of Quito, Ecuador, by Jian Adornado</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://maps.jianart.com/rabat/</loc>
     <lastmod>2026-11-14</lastmod>
-    <image:image><image:loc>https://maps.jianart.com/posters/1600/rabat.avif</image:loc></image:image>
+    <image:image>
+      <image:loc>https://maps.jianart.com/posters/share/rabat.jpg</image:loc>
+      <image:title>Rabat street map poster</image:title>
+      <image:caption>Minimal street map poster of Rabat, Morocco, by Jian Adornado</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://maps.jianart.com/raleigh/</loc>
     <lastmod>2026-11-14</lastmod>
-    <image:image><image:loc>https://maps.jianart.com/posters/1600/raleigh.avif</image:loc></image:image>
+    <image:image>
+      <image:loc>https://maps.jianart.com/posters/share/raleigh.jpg</image:loc>
+      <image:title>Raleigh street map poster</image:title>
+      <image:caption>Minimal street map poster of Raleigh, United States, by Jian Adornado</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://maps.jianart.com/reykjavik/</loc>
     <lastmod>2026-11-14</lastmod>
-    <image:image><image:loc>https://maps.jianart.com/posters/1600/reykjavik.avif</image:loc></image:image>
+    <image:image>
+      <image:loc>https://maps.jianart.com/posters/share/reykjavik.jpg</image:loc>
+      <image:title>Reykjavík street map poster</image:title>
+      <image:caption>Minimal street map poster of Reykjavík, Iceland, by Jian Adornado</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://maps.jianart.com/rio-de-janeiro/</loc>
     <lastmod>2026-11-14</lastmod>
-    <image:image><image:loc>https://maps.jianart.com/posters/1600/rio-de-janeiro.avif</image:loc></image:image>
+    <image:image>
+      <image:loc>https://maps.jianart.com/posters/share/rio-de-janeiro.jpg</image:loc>
+      <image:title>Rio de Janeiro street map poster</image:title>
+      <image:caption>Minimal street map poster of Rio de Janeiro, Brazil, by Jian Adornado</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://maps.jianart.com/rome/</loc>
     <lastmod>2026-11-14</lastmod>
-    <image:image><image:loc>https://maps.jianart.com/posters/1600/rome.avif</image:loc></image:image>
+    <image:image>
+      <image:loc>https://maps.jianart.com/posters/share/rome.jpg</image:loc>
+      <image:title>Rome street map poster</image:title>
+      <image:caption>Minimal street map poster of Rome, Italy, by Jian Adornado</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://maps.jianart.com/salta/</loc>
     <lastmod>2026-11-14</lastmod>
-    <image:image><image:loc>https://maps.jianart.com/posters/1600/salta.avif</image:loc></image:image>
+    <image:image>
+      <image:loc>https://maps.jianart.com/posters/share/salta.jpg</image:loc>
+      <image:title>Salta street map poster</image:title>
+      <image:caption>Minimal street map poster of Salta, Argentina, by Jian Adornado</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://maps.jianart.com/san-francisco/</loc>
     <lastmod>2026-11-14</lastmod>
-    <image:image><image:loc>https://maps.jianart.com/posters/1600/san-francisco.avif</image:loc></image:image>
+    <image:image>
+      <image:loc>https://maps.jianart.com/posters/share/san-francisco.jpg</image:loc>
+      <image:title>San Francisco street map poster</image:title>
+      <image:caption>Minimal street map poster of San Francisco, United States, by Jian Adornado</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://maps.jianart.com/santiago/</loc>
     <lastmod>2026-11-14</lastmod>
-    <image:image><image:loc>https://maps.jianart.com/posters/1600/santiago.avif</image:loc></image:image>
+    <image:image>
+      <image:loc>https://maps.jianart.com/posters/share/santiago.jpg</image:loc>
+      <image:title>Santiago street map poster</image:title>
+      <image:caption>Minimal street map poster of Santiago, Chile, by Jian Adornado</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://maps.jianart.com/sao-paulo/</loc>
     <lastmod>2026-11-14</lastmod>
-    <image:image><image:loc>https://maps.jianart.com/posters/1600/sao-paulo.avif</image:loc></image:image>
+    <image:image>
+      <image:loc>https://maps.jianart.com/posters/share/sao-paulo.jpg</image:loc>
+      <image:title>São Paulo street map poster</image:title>
+      <image:caption>Minimal street map poster of São Paulo, Brazil, by Jian Adornado</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://maps.jianart.com/sarajevo/</loc>
     <lastmod>2026-11-14</lastmod>
-    <image:image><image:loc>https://maps.jianart.com/posters/1600/sarajevo.avif</image:loc></image:image>
+    <image:image>
+      <image:loc>https://maps.jianart.com/posters/share/sarajevo.jpg</image:loc>
+      <image:title>Sarajevo street map poster</image:title>
+      <image:caption>Minimal street map poster of Sarajevo, Bosnia and Herzegovina, by Jian Adornado</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://maps.jianart.com/seattle/</loc>
     <lastmod>2026-11-14</lastmod>
-    <image:image><image:loc>https://maps.jianart.com/posters/1600/seattle.avif</image:loc></image:image>
+    <image:image>
+      <image:loc>https://maps.jianart.com/posters/share/seattle.jpg</image:loc>
+      <image:title>Seattle street map poster</image:title>
+      <image:caption>Minimal street map poster of Seattle, United States, by Jian Adornado</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://maps.jianart.com/seoul/</loc>
     <lastmod>2026-11-14</lastmod>
-    <image:image><image:loc>https://maps.jianart.com/posters/1600/seoul.avif</image:loc></image:image>
+    <image:image>
+      <image:loc>https://maps.jianart.com/posters/share/seoul.jpg</image:loc>
+      <image:title>Seoul street map poster</image:title>
+      <image:caption>Minimal street map poster of Seoul, South Korea, by Jian Adornado</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://maps.jianart.com/seville/</loc>
     <lastmod>2026-11-14</lastmod>
-    <image:image><image:loc>https://maps.jianart.com/posters/1600/seville.avif</image:loc></image:image>
+    <image:image>
+      <image:loc>https://maps.jianart.com/posters/share/seville.jpg</image:loc>
+      <image:title>Seville street map poster</image:title>
+      <image:caption>Minimal street map poster of Seville, Spain, by Jian Adornado</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://maps.jianart.com/singapore/</loc>
     <lastmod>2026-11-14</lastmod>
-    <image:image><image:loc>https://maps.jianart.com/posters/1600/singapore.avif</image:loc></image:image>
+    <image:image>
+      <image:loc>https://maps.jianart.com/posters/share/singapore.jpg</image:loc>
+      <image:title>Singapore street map poster</image:title>
+      <image:caption>Minimal street map poster of Singapore, Singapore, by Jian Adornado</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://maps.jianart.com/stockholm/</loc>
     <lastmod>2026-11-14</lastmod>
-    <image:image><image:loc>https://maps.jianart.com/posters/1600/stockholm.avif</image:loc></image:image>
+    <image:image>
+      <image:loc>https://maps.jianart.com/posters/share/stockholm.jpg</image:loc>
+      <image:title>Stockholm street map poster</image:title>
+      <image:caption>Minimal street map poster of Stockholm, Sweden, by Jian Adornado</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://maps.jianart.com/stockholm-2/</loc>
     <lastmod>2026-11-14</lastmod>
-    <image:image><image:loc>https://maps.jianart.com/posters/1600/stockholm-2.avif</image:loc></image:image>
+    <image:image>
+      <image:loc>https://maps.jianart.com/posters/share/stockholm-2.jpg</image:loc>
+      <image:title>Stockholm street map poster (Edition II)</image:title>
+      <image:caption>Minimal street map poster of Stockholm, Sweden (Edition II), by Jian Adornado</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://maps.jianart.com/sydney/</loc>
     <lastmod>2026-11-14</lastmod>
-    <image:image><image:loc>https://maps.jianart.com/posters/1600/sydney.avif</image:loc></image:image>
+    <image:image>
+      <image:loc>https://maps.jianart.com/posters/share/sydney.jpg</image:loc>
+      <image:title>Sydney street map poster</image:title>
+      <image:caption>Minimal street map poster of Sydney, Australia, by Jian Adornado</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://maps.jianart.com/tokyo/</loc>
     <lastmod>2026-11-14</lastmod>
-    <image:image><image:loc>https://maps.jianart.com/posters/1600/tokyo.avif</image:loc></image:image>
+    <image:image>
+      <image:loc>https://maps.jianart.com/posters/share/tokyo.jpg</image:loc>
+      <image:title>Tokyo street map poster</image:title>
+      <image:caption>Minimal street map poster of Tokyo, Japan, by Jian Adornado</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://maps.jianart.com/toronto/</loc>
     <lastmod>2026-11-14</lastmod>
-    <image:image><image:loc>https://maps.jianart.com/posters/1600/toronto.avif</image:loc></image:image>
+    <image:image>
+      <image:loc>https://maps.jianart.com/posters/share/toronto.jpg</image:loc>
+      <image:title>Toronto street map poster</image:title>
+      <image:caption>Minimal street map poster of Toronto, Canada, by Jian Adornado</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://maps.jianart.com/vienna/</loc>
     <lastmod>2026-11-14</lastmod>
-    <image:image><image:loc>https://maps.jianart.com/posters/1600/vienna.avif</image:loc></image:image>
+    <image:image>
+      <image:loc>https://maps.jianart.com/posters/share/vienna.jpg</image:loc>
+      <image:title>Vienna street map poster</image:title>
+      <image:caption>Minimal street map poster of Vienna, Austria, by Jian Adornado</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://maps.jianart.com/vienna-watercolor/</loc>
     <lastmod>2026-11-14</lastmod>
-    <image:image><image:loc>https://maps.jianart.com/posters/1600/vienna-watercolor.avif</image:loc></image:image>
+    <image:image>
+      <image:loc>https://maps.jianart.com/posters/share/vienna-watercolor.jpg</image:loc>
+      <image:title>Vienna street map poster (Watercolor)</image:title>
+      <image:caption>Minimal street map poster of Vienna, Austria (Watercolor), by Jian Adornado</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://maps.jianart.com/washington/</loc>
     <lastmod>2026-11-14</lastmod>
-    <image:image><image:loc>https://maps.jianart.com/posters/1600/washington.avif</image:loc></image:image>
+    <image:image>
+      <image:loc>https://maps.jianart.com/posters/share/washington.jpg</image:loc>
+      <image:title>Washington street map poster</image:title>
+      <image:caption>Minimal street map poster of Washington, United States, by Jian Adornado</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://maps.jianart.com/zagreb/</loc>
     <lastmod>2026-11-14</lastmod>
-    <image:image><image:loc>https://maps.jianart.com/posters/1600/zagreb.avif</image:loc></image:image>
+    <image:image>
+      <image:loc>https://maps.jianart.com/posters/share/zagreb.jpg</image:loc>
+      <image:title>Zagreb street map poster</image:title>
+      <image:caption>Minimal street map poster of Zagreb, Croatia, by Jian Adornado</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://maps.jianart.com/zurich/</loc>
     <lastmod>2026-11-14</lastmod>
-    <image:image><image:loc>https://maps.jianart.com/posters/1600/zurich.avif</image:loc></image:image>
+    <image:image>
+      <image:loc>https://maps.jianart.com/posters/share/zurich.jpg</image:loc>
+      <image:title>Zürich street map poster</image:title>
+      <image:caption>Minimal street map poster of Zürich, Switzerland, by Jian Adornado</image:caption>
+    </image:image>
   </url>
 </urlset>

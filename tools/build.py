@@ -288,6 +288,17 @@ def share(slug):
         path, quality=82, optimize=True, progressive=True)
 
 
+def share_url(slug):
+    """JPEG share file — what Google Images and rich results should fetch."""
+    return f'{SITE}posters/share/{slug}.jpg'
+
+
+def image_caption(d):
+    return (f"Minimal street map poster of {d['city']}, {d['country']}"
+            + (f" ({d['edition']})" if d['edition'] else '')
+            + ', by Jian Adornado')
+
+
 def artwork(d, desc):
     doc = {
         '@context': 'https://schema.org',
@@ -295,7 +306,7 @@ def artwork(d, desc):
         'name': poster_name(d),
         'description': desc,
         'url': f"{SITE}{d['slug']}/",
-        'image': f"{SITE}posters/1600/{d['slug']}.avif",
+        'image': share_url(d['slug']),
         'artform': 'Poster',
         'artMedium': 'Digital print',
         'creator': ARTIST,
@@ -319,7 +330,7 @@ def schema(data, title, desc):
             '@type': 'VisualArtwork',
             'name': poster_name(d),
             'url': f"{SITE}{d['slug']}/",
-            'image': f"{SITE}posters/1600/{d['slug']}.avif",
+            'image': share_url(d['slug']),
             'artform': 'Poster',
             'artMedium': 'Digital print',
             'creator': artist,
@@ -344,15 +355,26 @@ def schema(data, title, desc):
     return json.dumps(doc, ensure_ascii=False, separators=(',', ':')).replace('</', '<\\/')
 
 
+def sitemap_image(d):
+    """One image sitemap entry pointing at the share JPEG, with title and caption."""
+    title = html.escape(poster_name(d), quote=False)
+    caption = html.escape(image_caption(d), quote=False)
+    return (
+        f"    <image:image>\n"
+        f"      <image:loc>{share_url(d['slug'])}</image:loc>\n"
+        f"      <image:title>{title}</image:title>\n"
+        f"      <image:caption>{caption}</image:caption>\n"
+        f"    </image:image>"
+    )
+
+
 def sitemap(data):
     today = datetime.date.today().isoformat()
-    images = '\n'.join(
-        f"    <image:image><image:loc>{SITE}posters/1600/{d['slug']}.avif</image:loc></image:image>"
-        for d in data)
+    images = '\n'.join(sitemap_image(d) for d in data)
     pages = '\n'.join(f'''  <url>
     <loc>{SITE}{d['slug']}/</loc>
     <lastmod>{today}</lastmod>
-    <image:image><image:loc>{SITE}posters/1600/{d['slug']}.avif</image:loc></image:image>
+{sitemap_image(d)}
   </url>''' for d in data)
     return f'''<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
